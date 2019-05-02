@@ -2,7 +2,7 @@
 using namespace std;
 
 int main() {
-  int passnumber;  // パスワード代入変数
+  int passnumber;  // 繝代せ繝ｯ繝ｼ繝牙�･蜉帷畑螟画焚
   cout << "Enter your password:";
   cin >> passnumber;
   if (passnumber == 4157) {
